@@ -29,18 +29,18 @@ Power BI, Excel
 ## 🎯 Current Focus
 
 🟢 Building Data Science Projects
+
 🟢 Learning Generative AI & LLMs
+
 🟢 Practicing SQL & Python
+
 🟢 Exploring Power BI Dashboards
+
 🟢 Continuous Learning & Growth
 
 ---
 
 ## 📊 GitHub Stats
-
-![Sushmita's GitHub stats](https://github-readme-stats.vercel.app/api?username=sushmitanaganur&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sushmitanaganur&theme=radical)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sushmitanaganur&theme=react-dark)
 
