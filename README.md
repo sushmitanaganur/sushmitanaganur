@@ -7,7 +7,7 @@
 ![Open to Opportunities](https://img.shields.io/badge/OPEN%20TO-OPPORTUNITIES-brightgreen)
 ![Focus](https://img.shields.io/badge/FOCUS-Data%20Science-blue)
 ![Specialization](https://img.shields.io/badge/SPECIALIZATION-Generative%20AI-orange)
-![Python](https://img.shields.io/badge/PYTHON-Advanced-yellow)
+![Python](https://img.shields.io/badge/PYTHON-yellow)
 
 ---
 
